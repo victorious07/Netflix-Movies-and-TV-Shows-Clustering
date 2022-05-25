@@ -1,4 +1,12 @@
 # Clustering_Capstone_Project
+<p align="center"><b><font size="10">Netflix Movies and TV Shows Clustering</font></b></p>
+<p align="center">
+  <img 
+    width="750"
+    height="400"
+    src = "https://user-images.githubusercontent.com/86402845/170177846-17657ccf-3bb0-4380-b44b-5d4e9dea415e.gif">
+</p>  
+
 Netflix, Inc. is an American subscription streaming service and production company. Launched on August 29, 1997, it offers a film and television series library through distribution deals as well as its own productions, known as Netflix Originals.
 Netflix was founded on the aforementioned date by Reed Hastings and Marc Randolph in Scotts Valley, California.
 
@@ -33,5 +41,3 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 **11. listed_in :** Genere
 
 **12. description:** The Summary description
-
-![netflix-logo2](https://user-images.githubusercontent.com/86402845/169951672-4bc42203-f54b-44f5-964f-62534cf45e21.gif)
