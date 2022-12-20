@@ -41,3 +41,16 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 **11. listed_in :** Genere
 
 **12. description:** The Summary description
+
+**Conclusion :**<br>
+
+**1.** In this dataset there are two types of contents where 30.9% includes TV shows and the remaining 69.1% carries Movies.
+
+**2.** We have reached a conclusion from our analysis from the content added over years that Netflix is focusing more on movies than TV Shows and We see        a slow start for Netflix over several years. Things begin to pick up in 2015 and then there is a rapid increase from 2016.
+
+**3.** As I've noted in the insights on the plot, it is really interesting to see how the split of TV Shows and Movies varies by country. South Korea and        Japan are dominated by TV Shows and Equally, India is dominated by Movies.
+ 
+**4.** On Netflix USA has the largest number of contents. And most of the countries preferred to produce movies more than TV shows.
+
+**5.** When we look at the cast for Movies we can see many Indian actors like Anupam Kher,Shah Rukh Khan,Naseeruddin Shah, OM Puri have the most number          of films on Netflix.
+
