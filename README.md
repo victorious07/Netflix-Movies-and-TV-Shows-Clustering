@@ -1,4 +1,4 @@
-# Clustering_Capstone_Project
+# Netflix-Movies-and-TV-Shows-Clustering
 <p align="center"><b><font size="10">Netflix Movies and TV Shows Clustering</font></b></p>
 <p align="center">
   <img 
